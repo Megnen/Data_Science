@@ -1,2 +1,2 @@
 # Data_Science
-Coursera course
+Python - Data analysis 
